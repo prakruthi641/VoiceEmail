@@ -4,6 +4,7 @@ Project Overview
 
 Voice-Based Email is an accessible email system designed to help visually impaired users send and receive emails using voice commands. The system leverages speech-to-text and text-to-speech conversion technologies to create an intuitive and accessible email experience.
 
+
 Features
 
 ✅ Speech-to-Text: Convert spoken words into email text.
@@ -15,6 +16,7 @@ Features
 ✅ Machine Learning Integration: Enhances speech recognition accuracy.
 
 ✅ Secure Authentication: Ensures safe email access and communication.
+
 
 Technologies Used
 
